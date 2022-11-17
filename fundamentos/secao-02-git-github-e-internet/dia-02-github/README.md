@@ -1,4 +1,4 @@
-#Exercícios
+# Exercícios
 
 Agora que você já testou suas novas habilidades com o Git, vamos iniciar a parte prática, que no final das contas vai ser o que você irá usar por muito tempo em desenvolvimento de software.
 
@@ -14,18 +14,18 @@ Após criar o repositório já com um `README.md` e clonar o repositório:
 
 * Organize suas pastas de acordo com as instruções da página sobre Portfólio de Exercícios. Assim, você criará a estrutura de diretórios que serão usados ao longo de todo o curso para guardar seus exercícios.
 
-** O `README.md` que você criou é referente ao repositório trybe-exercicios. Tendo isso em mente é interessante que você adicione informações relacionadas ao curso da Trybe e o que você está desenvolvendo e o que irá desenvolver;
+* O `README.md` que você criou é referente ao repositório trybe-exercicios. Tendo isso em mente é interessante que você adicione informações relacionadas ao curso da Trybe e o que você está desenvolvendo e o que irá desenvolver;
 
-** Uma outra coisa interessante a se fazer é adicionar um README.md dentro do diretório de exercícios do dia para colocar a descrição dos exercícios que você desenvolveu;
+* Uma outra coisa interessante a se fazer é adicionar um README.md dentro do diretório de exercícios do dia para colocar a descrição dos exercícios que você desenvolveu;
 
-** Lembre-se de fazer `commits` com frequência;
+* Lembre-se de fazer `commits` com frequência;
 
-** Depois de alguns `commits`, sempre faça um `push`;
+* Depois de alguns `commits`, sempre faça um `push`;
 
-** Abra o `pull` request;
+* Abra o `pull` request;
 
-** Confira as alterações no GitHub;
+* Confira as alterações no GitHub;
 
-** Realize o `merge` no GitHub;
+* Realize o `merge` no GitHub;
 
-** Dê um `pull` das alterações mergeadas;
+* Dê um `pull` das alterações mergeadas;
