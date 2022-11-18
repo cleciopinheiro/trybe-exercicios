@@ -1,0 +1,51 @@
+ol {
+    background-color: yellow;
+}
+
+.even {
+    color: green;
+}
+
+.odd {
+    text-transform: lowercase;
+}
+
+h1, h2, h3 {
+    color: red;
+}
+
+h1, h2, h3 em {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+.languages {
+    color: blue;
+}
+
+.java {
+    background-color: pink;
+}
+
+.laranja:hover {
+    color: orange;
+}
+
+.green:hover {
+    color: green;
+}
+
+.yellow:hover {
+    color: yellow;
+}
+.black:hover {
+    color: black;
+}
