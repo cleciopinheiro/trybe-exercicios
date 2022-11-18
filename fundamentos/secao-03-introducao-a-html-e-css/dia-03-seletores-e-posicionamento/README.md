@@ -1,5 +1,4 @@
-# 🚀 Para fixar
-E aí? Viu o quão incrível o CSS pode ser?!
+# 🚀 Exercício
 
 `index.html`
 
