@@ -1,4 +1,4 @@
-ol {
+ol li {
     background-color: yellow;
 }
 
@@ -7,7 +7,7 @@ ol {
 }
 
 .odd {
-    text-transform: lowercase;
+    text-transform: uppercase;
 }
 
 h1, h2, h3 {
