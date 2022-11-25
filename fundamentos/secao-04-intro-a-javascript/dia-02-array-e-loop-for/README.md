@@ -1,4 +1,4 @@
-# 🚀 Lidando com Arrays
+# 🚀 Exercícios - Lidando com Arrays
 Iremos utilizar esse array para realizar os próximos exercícios.
 
 Copiar
