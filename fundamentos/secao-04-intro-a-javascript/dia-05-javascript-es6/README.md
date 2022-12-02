@@ -115,7 +115,7 @@ Copie o código abaixo:
 
 
 ## Parte II
-Abaixo, você verá algumas especificações de algoritmos para desenvolver. É fundamental que você utilize o que aprendeu sobre let, const, `arrow functions`, `template literals` e `ternary operator`.
+Abaixo, você verá algumas especificações de algoritmos para desenvolver. É fundamental que você utilize o que aprendeu sobre `let`, `const`, `arrow functions`, `template literals` e `ternary operator`.
 
 * Crie uma função que ligue e desligue um motor de um carro.
 
