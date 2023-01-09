@@ -1,0 +1,26 @@
+body {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 80px 10%;
+  gap: 20px;
+}
+
+section {
+  display: flex;
+  gap: 5px;
+}
+
+div {
+  padding: 10px 10px;
+  border: 1px solid rgb(202, 202, 202);
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 5px;
+  width: 100px;
+}
