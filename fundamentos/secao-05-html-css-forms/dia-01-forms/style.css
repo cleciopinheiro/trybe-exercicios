@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: rgb(46, 83, 65);;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: rgb(7, 48, 15);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 30px;
+    cursor: pointer;
+    transition: 1s;
+}
+button:hover {
+    background-color: rgb(37, 131, 56);
+}
+
+.content-inputs {
+    border: 1px solid rgb(150, 150, 150);
+    padding: 20px;
+    width: 30%;
+}
+
+.inputs {
+    margin: 8px;
+}
+
+.buttons {
+    display: flex;
+    gap: 5px;
+    margin: 8px;
+}
+
+.checkbox {
+    display: flex;
+    flex-direction: column;
+}
