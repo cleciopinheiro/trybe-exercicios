@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 6.1 HTML & CSS - Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+
+        <h1>Formulário TrybeTrip</h1>
+
+    </header>
+
+    <section class="section-form">
+        <form>
+            <div class="content-inputs">
+                <div class="inputs">
+                    <label for="name">Nome:</label>
+                    <input type="text" name="name" id="name">
+                </div>
+        
+                <div class="inputs">
+                    <label for="email">Email:</label>
+                    <input type="email" name="email" id="email">
+                </div>
+        
+        
+                <div class="inputs radio">
+                    <input type="radio" name="radio" id="option1">
+                    <label for="option1">Cidade</label>
+                    <input type="radio" name="radio" id="option2">
+                    <label for="option2">Campo</label>
+                    <input type="radio" name="radio" id="option3">
+                    <label for="option3">Praia</label>
+                    <input type="radio" name="radio" id="option4">
+                    <label for="option4">Montanhas</label>
+                </div>
+        
+                <div class="inputs description">
+                    <h3>Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</h3>
+                    <textarea name="description" id="description" cols="30" rows="10"></textarea>
+                </div>
+        
+                <div class="inputs">
+                    <label for="date">Data:</label>
+                    <input type="date" name="date" id="date">
+                </div>
+    
+                <div class="inputs">
+                    <input type="checkbox" name="check" id="check1">
+                    <label for="check1">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
+                </div>
+    
+                <div class="inputs">
+                    <input type="checkbox" name="check" required id="check2">
+                    <label for="check2">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
+                </div>
+            </div>
+
+            <div class="buttons">
+                <button id="btn-submit" type="submit">Enviar</button>
+                <button id="btn-reset" type="reset">Apagar</button>
+            </div>
+
+        </form>
+
+    </section>
+    
+</body>
+<script src="script.js"></script>
+</html>
