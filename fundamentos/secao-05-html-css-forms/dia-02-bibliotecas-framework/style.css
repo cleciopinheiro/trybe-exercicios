@@ -1,0 +1,24 @@
+.section-form {
+    max-width: 40%;
+    margin: auto;
+}
+
+h1 { 
+    text-align: center;
+    margin: 16px;
+}
+
+.textarea {
+    margin: 16px 0px;
+}
+
+.inputText {
+    display: flex;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin: 16px;
+    gap: 8px;
+}
