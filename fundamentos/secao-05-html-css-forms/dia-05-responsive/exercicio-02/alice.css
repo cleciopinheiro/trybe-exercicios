@@ -1,0 +1,80 @@
+
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+  }
+
+  @media only screen and (min-width: 600px) {
+    body {
+        font-family: Helvetica, sans-serif;
+      }
+    
+    header {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        background-color: rgb(216, 255, 229);
+        padding: 8px 0;
+        gap: 16px;
+    }
+    
+    nav ul {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .aside-one, .aside-two, .main-content, footer {
+        margin: 16px 3%;
+    }
+  }
+
+  @media only screen and (min-width: 768px) {
+    body {
+        font-family: Helvetica, sans-serif;
+      }
+    
+    header {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        background-color: rgb(255, 251, 216);
+        padding: 8px 0;
+        gap: 16px;
+    }
+    
+    nav ul {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .aside-one, .aside-two, .main-content, footer {
+        margin: 16px 4%;
+    }
+  }
+
+  @media only screen and (min-width: 992px) {
+    body {
+        font-family: Helvetica, sans-serif;
+      }
+    
+    header {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        background-color: rgb(255, 216, 222);
+        padding: 8px 0;
+        gap: 16px;
+    }
+    
+    nav ul {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .aside-one, .aside-two, .main-content, footer {
+        margin: 16px 5%;
+    }
+  }
+  
