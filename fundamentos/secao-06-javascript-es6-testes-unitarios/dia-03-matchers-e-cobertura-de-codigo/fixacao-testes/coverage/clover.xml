@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1674238249545" clover="3.2.0">
+  <project timestamp="1674238249546" name="All files">
+    <metrics statements="13" coveredstatements="12" conditionals="10" coveredconditionals="9" methods="2" coveredmethods="2" elements="25" coveredelements="23" complexity="0" loc="13" ncloc="13" packages="1" files="2" classes="2"/>
+    <file name="createItem.js" path="/home/clecio/Trybe/trybe-exercicios/fundamentos/secao-06-javascript-es6-testes-unitarios/dia-03-matchers-e-cobertura-de-codigo/fixacao-testes/createItem.js">
+      <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/home/clecio/Trybe/trybe-exercicios/fundamentos/secao-06-javascript-es6-testes-unitarios/dia-03-matchers-e-cobertura-de-codigo/fixacao-testes/sum.js">
+      <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

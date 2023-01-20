@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1674240300841" clover="3.2.0">
+  <project timestamp="1674240300841" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2" elements="21" coveredelements="21" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
+    <file name="printMessage.js" path="/home/clecio/Trybe/trybe-exercicios/fundamentos/secao-06-javascript-es6-testes-unitarios/dia-03-matchers-e-cobertura-de-codigo/printMessage.js">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/home/clecio/Trybe/trybe-exercicios/fundamentos/secao-06-javascript-es6-testes-unitarios/dia-03-matchers-e-cobertura-de-codigo/sum.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
