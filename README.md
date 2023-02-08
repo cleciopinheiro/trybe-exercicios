@@ -8,7 +8,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 
 
 
-## Fundamentos do Desenvolvimentos Web :white_check_mark:
+## Módulo Fundamentos :white_check_mark:
 
 
 #### Bloco 01: Unix & Bash
@@ -47,7 +47,7 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 4.7: [Projeto - Adivinhe a Cor]
 - [x] 4.7: [Projeto - Carta Misteriosa]
 
-#### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
+#### Bloco 05: HTML e CSS: Forms, Flexbox e Responsivo
 
 - [x] 5.1: HTML & CSS - Forms
 - [x] 5.2: Bibliotecas JavaScript e Frameworks CSS
@@ -56,18 +56,31 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 5.5: CSS Responsivo - Mobile First
 - [x] 5.6: [Projeto - Trybewarts]()
 
-#### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
+#### Bloco 06: Introdução à JavaScript ES6 e Testes Unitários
 
 - [x] 6.1: JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 6.2: JavaScript ES6 - Fluxo de exceção e Objetos
 - [x] 6.3: Primeiros passos em Jest
 - [x] 6.4: [Projeto - JavaScript Testes Unitários]()
 
-#### Bloco 08: Higher Order Functions do JavaScript ES6
+#### Bloco 07: Higher Order Functions do JavaScript ES6
 
-- [ ] 7.1: JavaScript ES6 - Introdução a Higher Order Functions
-- [ ] 7.2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 7.3: JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 7.4: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 7.5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 7.6: [Projeto - Zoo functions]()
+- [x] 7.1: JavaScript ES6 - Introdução a Higher Order Functions
+- [x] 7.2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 7.3: JavaScript ES6 - Higher Order Functions - map e filter
+- [x] 7.4: JavaScript ES6 - Higher Order Functions - reduce
+- [x] 7.5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [x] 7.6: [Projeto - Zoo functions]()
+
+
+
+## Módulo Front-End :white_check_mark:
+
+
+#### Bloco 01: Unix & Bash
+
+- [ ] 1.1: Ambiente de desenvolvimento
+- [ ] 1.2: JavaScript Assíncrono - Promises e fetch
+- [ ] 1.3: Prática - Casa de câmbio
+- [ ] 1.4: Async, await e testes assíncronos
+- [ ] 1.5: Projeto - Carrinho de compras
