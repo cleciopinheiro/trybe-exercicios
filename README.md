@@ -79,8 +79,8 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 
 #### Bloco 01: Unix & Bash
 
-- [ ] 1.1: Ambiente de desenvolvimento
-- [ ] 1.2: JavaScript Assíncrono - Promises e fetch
-- [ ] 1.3: Prática - Casa de câmbio
-- [ ] 1.4: Async, await e testes assíncronos
-- [ ] 1.5: Projeto - Carrinho de compras
+- [x] 1.1: Ambiente de desenvolvimento
+- [x] 1.2: JavaScript Assíncrono - Promises e fetch
+- [x] 1.3: Prática - Casa de câmbio
+- [x] 1.4: Async, await e testes assíncronos
+- [x] 1.5: Projeto - Carrinho de compras
