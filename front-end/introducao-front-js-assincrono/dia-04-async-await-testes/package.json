@@ -1,0 +1,30 @@
+{
+  "name": "magic-cards-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "engines": {
+    "node": "16 || 18"
+  },
+  "dependencies": {
+    "eslint-config-trybe-fundamentals": "^1.1.1",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-sonarjs": "^0.14.0",
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest ./startest",
+    "test:dev": "jest ./src/__tests__",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

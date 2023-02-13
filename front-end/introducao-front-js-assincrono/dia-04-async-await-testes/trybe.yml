@@ -1,0 +1,9 @@
+ignore_files:
+  - startest/
+  - src/data
+  - src/magic.js
+  - .eslintrc.json
+  - .eslintignore
+  - .gitignore
+  - README.md
+  
