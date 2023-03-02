@@ -77,10 +77,22 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 ## Módulo Front-End :white_check_mark:
 
 
-#### Bloco 01: Unix & Bash
+#### Bloco 01: Introdução ao Frontend e JavaScript assíncrono
 
 - [x] 1.1: Ambiente de desenvolvimento
 - [x] 1.2: JavaScript Assíncrono - Promises e fetch
 - [x] 1.3: Prática - Casa de câmbio
 - [x] 1.4: Async, await e testes assíncronos
-- [x] 1.5: Projeto - Carrinho de compras
+- [x] 1.5: [Projeto - Carrinho de compras]()
+
+#### Bloco 02: Introdução ao React
+
+- [x] 2.1: 'Hello World' no React
+- [x] 2.2: Componentes React
+- [x] 2.3: [Projeto - Solar System]()
+
+#### Bloco 03: Componentes com Estado, Eventos e Formulários com React
+
+- [x] 3.1: Componentes com estado e eventos
+- [x] 3.2: Formulários com React
+- [x] 3.3: [Projeto - Tryunfo]()
