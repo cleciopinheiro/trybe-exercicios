@@ -30,12 +30,27 @@ class App extends React.Component {
       clickEarth: lastNumber.clickEarth + 1,
     }));
   }
+
+  getButtonColor = (num) => {
+    return num % 2 === 0 ? 'purple' : 'black';
+  }
+
+
   render() {
+    const { clickFire, clickIce, clickEarth } = this.state;
     return (
       <div>
-        <button className="fire" onClick={ this.handleClickFire }>{ this.state.clickFire } FOGO</button>
-        <button className="ice" onClick={ this.handleClickIce }>{ this.state.clickIce } GELO</button>
-        <button className="earth" onClick={ this.handleClickEarth }>{ this.state.clickEarth } EARTH</button>
+        <button className="fire" 
+          onClick={ this.handleClickFire }
+          style={{ backgroundColor: this.getButtonColor(clickFire) }} >{ clickFire } FOGO</button>
+
+        <button className="ice"
+          onClick={ this.handleClickIce }
+          style={{ backgroundColor: this.getButtonColor(clickIce) }} >{ clickIce } GELO</button>
+
+        <button className="earth"
+         onClick={ this.handleClickEarth }
+         style={{ backgroundColor: this.getButtonColor(clickEarth) }} >{ clickEarth } EARTH</button>
       </div>
     )
   }
