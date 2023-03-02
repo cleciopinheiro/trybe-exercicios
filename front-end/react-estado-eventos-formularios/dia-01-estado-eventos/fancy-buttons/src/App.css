@@ -1,0 +1,29 @@
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: 12px;
+}
+
+.fire {
+  padding: 8px 16px;
+  background-color: red;
+  text-transform: uppercase;
+  color: white;
+}
+
+.ice {
+  padding: 8px 16px;
+  background-color: blue;
+  text-transform: uppercase;
+  color: white;
+}
+
+.earth {
+  padding: 8px 16px;
+  background-color: green;
+  text-transform: uppercase;
+  color: white;
+}
