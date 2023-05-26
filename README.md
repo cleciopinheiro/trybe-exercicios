@@ -97,8 +97,63 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 3.2: Formulários com React
 - [x] 3.3: [Projeto - Tryunfo]()
 
-#### Bloco 03: Cicle de Vida de Componentes e React Router
+#### Bloco 04: Cicle de Vida de Componentes e React Router
 
 - [x] 4.1: Ciclo de vida de componentes
 - [x] 4.2: React Router
 - [x] 4.3: [Projeto - TrybeTunes]()
+
+#### Bloco 05: Metodologias Ágeis
+
+- [x] 5.1: Metodologias Ágeis
+- [x] 5.2: [Projeto - Front-end Online Store]()
+
+#### Bloco 06: Testes automatizados com React Test Library
+
+- [x] 6.1: Primeiros passos
+- [x] 6.2: Mocks e Input
+- [x] 6.3: Testando React Router
+- [x] 6.4: [Projeto - Testes em React]()
+
+#### Bloco 07: Gerenciamento de estado com Redux
+
+- [x] 7.1: Introdução ao Redux
+- [x] 7.2: Redux no React
+- [x] 7.3: Redux no React - Actions Assíncronas
+- [x] 7.4: Testes em React-Redux
+- [x] 7.5: [Projeto - Trybe Wallet]()
+
+#### Bloco 08: Projeto Jogo Trívia
+
+- [x] 8.1: [Projeto - Trivia]()
+
+#### Bloco 09: Context API e Hooks
+
+- [x] 9.1: useState e useEffect
+- [x] 9.2: Context API
+- [x] 9.3: Custom Hooks
+- [x] 9.4: [Projeto - StarWars]()
+
+#### Bloco 10: Projeto App de Receitas
+
+- [x] 10.1: [Projeto - App de Receitas]()
+
+
+
+## Módulo Back-End :white_check_mark:
+
+
+#### Bloco 01: Docker: Utilizando Containers
+
+- [x] 1.1: Utilizando Containers: Docker
+- [x] 1.2: Manipulando Imagens no Docker
+- [x] 1.3: Orquestrando Containers com Docker Compose
+- [x] 1.4: [Projeto - Docker Todo-List]()
+
+#### Bloco 02: Introdução à SQL
+
+- [x] 2.1: Banco de dados SQL
+- [x] 2.2: Encontrando dados em um banco de dados
+- [x] 2.3: Filtrando dados de forma específica
+- [x] 2.4: Manipulando tabelas
+- [x] 2.5: [Projeto - All For One]()
