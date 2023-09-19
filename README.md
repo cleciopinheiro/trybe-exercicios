@@ -157,3 +157,62 @@ O programa conta com mais de 1500 horas de aulas presenciais e online, aborda in
 - [x] 2.3: Filtrando dados de forma específica
 - [x] 2.4: Manipulando tabelas
 - [x] 2.5: [Projeto - All For One]()
+
+#### Bloco 03: Funções SQL, JOINs e Normalização
+
+- [x] 3.1: Funções mais usadas no SQL
+- [x] 3.2: Descomplicando JOINs
+- [x] 3.3: Transformando ideias em modelos de banco de dados
+- [x] 3.4: [Projeto - One For All]()
+
+#### Bloco 04: Instrodução a desenvolvimento web com Node.js
+
+- [x] 4.1: Runtime Assíncrono
+- [x] 4.2: API REST com Express
+- [x] 4.3: Testes de integração
+- [x] 4.4: Express e Middlewares
+- [x] 4.5: Express e MySQL
+- [x] 4.6: [Projeto - Talker Manager]()
+
+#### Bloco 05: Arquitetura de Software: Model, Service e Controller
+
+- [x] 5.1: Camada Model
+- [x] 5.2: Refatorando Camada Model
+- [x] 5.3: Camada Service
+- [x] 5.4: Refatorando Camada Service
+- [x] 5.5: Refatorando Camada Controller
+- [x] 5.6: [Projeto - Store Manager]()
+
+#### Bloco 06: Node.js: ORM e Autenticação
+
+- [x] 6.1: Interface da aplicação com banco de dados
+- [x] 6.2: Associations 1:1 e 1:N
+- [x] 6.3: Associations N:N e Transactions
+- [x] 6.4: JWT (JSON Web Token)
+- [x] 6.5: [Projeto - API de Blogs]()
+
+#### Bloco 07: Masterclass: Implantação de aplicação na Nuvem
+
+- [x] 7.1: Deploy com Railway
+
+#### Bloco 08: Introdução a TypeScript
+
+- [x] 8.1: Aprendendo TypeScript
+- [x] 8.2: Introdução a Generics
+- [x] 8.3: API REST com Express, JWT, Sequelize e TypeScript
+- [x] 8.4: Testando aplicação com TypeScript
+- [x] 8.5: [Projeto - Trybesmith]()
+
+#### Bloco 09: Programação Orientada a Objetos (POO) e SOLID
+
+- [x] 9.1: Introdução a Orientação a Objetos
+- [x] 9.2: Herança e Composição
+- [x] 9.3: Polimorfismo
+- [x] 9.4: Introdução e Princípios S, O e D
+- [x] 9.5: Princípios L e I
+- [x] 9.6: [Projeto - Trybers and Dragons]()
+
+#### Bloco 10: Projeto TFC - Trybe Futebol Clube
+
+- [x] 10.1: Express com Classes
+- [x] 10.2: [Projeto - TFC - Trybe Futebol Clube]()
